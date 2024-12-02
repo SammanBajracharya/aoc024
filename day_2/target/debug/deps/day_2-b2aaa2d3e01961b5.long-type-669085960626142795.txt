@@ -1,0 +1,1 @@
+Filter<FilterMap<Map<std::str::Lines<'_>, for<'a> fn(&'a str) -> Result<Vec<i32>, ParseIntError> {parse_line}>, {closure@src/part_1.rs:10:21: 10:29}>, for<'a> fn(&'a [i32]) -> bool {is_safe_report}>

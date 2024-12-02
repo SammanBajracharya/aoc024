@@ -1,0 +1,1 @@
+FilterMap<Map<SplitWhitespace<'_>, {closure@src/part_1.rs:9:18: 9:21}>, fn(Result<i32, ParseIntError>) -> Result<Result<i32, ParseIntError>, _> {Result::<Result<i32, ParseIntError>, _>::Ok}>
