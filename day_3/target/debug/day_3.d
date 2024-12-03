@@ -1,0 +1,1 @@
+/home/samman/Personal/code/rust/learning/aoc/day_3/target/debug/day_3: /home/samman/Personal/code/rust/learning/aoc/day_3/src/main.rs /home/samman/Personal/code/rust/learning/aoc/day_3/src/part_1.rs /home/samman/Personal/code/rust/learning/aoc/day_3/src/part_2.rs
